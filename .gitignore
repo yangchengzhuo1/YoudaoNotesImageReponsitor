@@ -1,0 +1,14 @@
+*.iml
+*.class
+*.project
+*.classpath
+*.versionsBackup
+*.factorypath
+.DS_Store
+.accelerate
+
+target/
+.settings/
+test-output/
+.svn/
+.idea/
